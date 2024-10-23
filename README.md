@@ -1,4 +1,4 @@
-# LITA_DB
+# LITA_DB CLASS DOCUMENTATION
 ---
 Documenting my first project while learning Data Analysis with The Incubator Hub
 
