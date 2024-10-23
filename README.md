@@ -1,5 +1,13 @@
 # Project Title: ID and Co. Limited Pioneer Staff Schedule Management Using Basic Excel Functions
 
+## Table of Contents
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tool Used](#tool-used)
+
+[Data Analysis Process](#data-analysis-process)
 
 ### Project Overview:
 ---
@@ -37,3 +45,23 @@ This includes handling duplicates, blank cells and text manipulation and extrati
 
 - Data Analysis Techniques: This involve using analytical functions to derive insights from data. Functions include;
   **`SUM`**, **`AVERAGE`**, **`MAX`**, **`COUNT`**, **`LARGE`**, **`SMALL`**, **`IF`** *etc*.
+
+  ```Excel
+  |EMPLOYEE NUMBER| SALARY| DEPARTMENT| GENDER |              
+  | KP15865       | 645765| Finance   |        |
+  | KP45681       | 234678| Sales     |        |
+
+  |EMPLOYEE NUMBER| GENDER| DATE_OF_BIRTH|
+  | KP15865       | MALE  | 01/15/2001   |
+  | KP45681       | FEMALE| 16/06/1999   |
+  
+  =SUM(B1:B2)
+  =VlOOKUP(KP15865,A1:C2,2,TRUE)
+  ```
+
+- Data Summarization: create summaries using **`Pivot Tables`** making it easier to identify patterns or issues.
+
+- Data Visualization: Using of charts and graphs to visualize data insights.
+
+  
+
