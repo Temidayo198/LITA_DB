@@ -17,7 +17,7 @@
 
 ### Project Overview:
 ---
-This project involves creating an efficient and organized schedule for the pioneer staff of ID and Co. Limited using basic Excel functions. The primary goal is to streamline staff scheduling and improve data management practices within the company. The project leverages fundamental Excel features, including data cleaning, sorting, filtering and essential functions to optimize the scheduling process.
+This project involves creating an efficient and organized schedule for the pioneer staff of ID and Co. Limited using basic Excel functions. The primary goal is to streamline staff scheduling, improve data management practices, revenue of line of business and regional performances within the company. The project leverages fundamental Excel features, including data cleaning, sorting, filtering and essential functions to optimize the scheduling process for improved operational efficiency.
 
 ### Data Sources
 ---
