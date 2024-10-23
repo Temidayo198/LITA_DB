@@ -9,6 +9,12 @@
 
 [Data Analysis Process](#data-analysis-process)
 
+[Results](#results)
+
+[Recommendations](#recommendations)
+
+[Conclusion](#conclusion)
+
 ### Project Overview:
 ---
 This project involves creating an efficient and organized schedule for the pioneer staff of ID and Co. Limited using basic Excel functions. The primary goal is to streamline staff scheduling and improve data management practices within the company. The project leverages fundamental Excel features, including data cleaning, sorting, filtering and essential functions to optimize the scheduling process.
@@ -63,5 +69,35 @@ This includes handling duplicates, blank cells and text manipulation and extrati
 
 - Data Visualization: Using of charts and graphs to visualize data insights.
 
+![IMG_3262](https://github.com/user-attachments/assets/15d6e26e-46d8-4379-83e0-035973d98a7a)
 
+![IMG_3261](https://github.com/user-attachments/assets/6ca3beab-99db-435e-9b51-c37f22489ece)
 
+![IMG_3263](https://github.com/user-attachments/assets/41c9a439-a9ab-4090-ac0f-0f832f355be1)
+
+![IMG_3265 (1)](https://github.com/user-attachments/assets/cf55cbe5-7f66-4bdb-af2c-d0f188112e1d)
+
+![image](https://github.com/user-attachments/assets/1d320b3c-8f8a-447a-9428-7a334bedf92d)
+
+![image](https://github.com/user-attachments/assets/06dce555-b5f7-4490-a86b-6e832173e252)
+
+### Results
+---
+From the we observe that:
+- *`service plan`* having the highest sum of revenue and *`printer sale`* is with lowest revenue.
+- *`Goodluck Jonathan`* has the highest salary indicating their senior role or specialized skill in the company
+- *`Achike Udenwa`* has the lowest salary, potentially indicating a junior role or part time status
+- the highest revenue was generated from the *`North East`* region while the lowest was from *`North Central`*
+
+### Recommendations
+---
+- Focus on expanding *`service plan`*.
+- Increase marketing for *`printer sales`*.
+- Investigate the cause for low *`printer sales`*.
+- Review compensation structure to improve staff motivation.
+- Analyze market conditions in *`North Central`*.
+- Strategic marketing for low performing regions.
+
+### Conclusion
+---
+In summary, the analysis highlights key areas of opportunities and concern within the organization. The *`service plan`* stands out as a key generator, warranting further investment and marketing efforts to enhance its offerings, while the *`printer sales`* necessitate a strategic marketing approach. Salary discrepancies suggest a need for review to ensure fairness and motivation among employees. Additionally, the regional performance variations suggest the need for targeted marketing and resources allocation. By addressing these findings and implementing the recommended strategies, the organization can enhance overall perfomance and profitability.
