@@ -63,5 +63,5 @@ This includes handling duplicates, blank cells and text manipulation and extrati
 
 - Data Visualization: Using of charts and graphs to visualize data insights.
 
-![Alt text](https://example
+
 
