@@ -1,6 +1,6 @@
 # LITA_DB CLASS DOCUMENTATION
 ---
-Documenting my first project while learning Data Analysis with The Incubator Hub
+Comprehensive documentation of my Data Analysis with The Incubator Hub, showcasing hands-on projects and skill development in Excel, SQL and PowerBI
 
 
 ``` SQL
